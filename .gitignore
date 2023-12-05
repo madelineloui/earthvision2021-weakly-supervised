@@ -14,3 +14,4 @@ earthvision2021/notebooks/
 !earthvision2021/data/train/test_sliding_window_1024.csv
 !earthvision2021/data/train/val_sliding_window_1024.csv
 
+env/
